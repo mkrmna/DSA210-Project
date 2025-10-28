@@ -71,10 +71,10 @@ I will test hypotheses such as, but not limited to:
 
 ## Expected Findings
 
-* Certain genres (*classical*, *lo-fi*) may associate with **lower anxiety**
-* High listening hours might correlate with **sleep issues (insomnia)**
-* Gender and age could **moderate** mental health effects
-* And more...
+* Certain genres (*classical*, *lo-fi*) may associate with **lower anxiety**.
+* High listening hours might correlate with **sleep issues (insomnia)**.
+* Gender and age could **moderate** mental health effects.
+* And more to be discovered...
 
 ---
 
