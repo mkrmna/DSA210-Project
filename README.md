@@ -38,11 +38,15 @@ Methodology
 
 1.The audio feature dataset (data2.csv) includes 1,000 tracks with extracted numerical features such as:
 * tempo, chroma_stft, spectral_centroid, spectral_bandwidth, rolloff, zero_crossing_rate, and mfcc1–20.
+  
 2.Each song is labeled with a genre (label column, e.g., rock, classical, pop, blues).
+
 3.The data was grouped by genre, and the mean values of each audio feature were computed to represent the average musical profile of that genre.
+
 4.The survey dataset (data1.csv) contains a column named Fav genre, which indicates each participant’s favorite genre.
-5.Both datasets were merged based on this genre information.
-Each participant in the survey was assigned the corresponding average audio features of their favorite genre.
+
+5.Both datasets were merged based on this genre information.Each participant in the survey was assigned the corresponding average audio features of their favorite genre.
+
 6.The resulting enriched dataset (enriched_music_mental_health.csv) includes both the self-reported survey responses and the quantitative acoustic attributes for a richer, multidimensional analysis.
 
 ---
