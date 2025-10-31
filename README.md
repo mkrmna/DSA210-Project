@@ -34,7 +34,7 @@ In this project I aim to explore whether **musical preferences** can serve as a 
 
 In this project, the original Music & Mental Health Survey Dataset was enriched using a second dataset containing audio features of songs from different genres. The goal of this enrichment is to combine subjective survey data (self-reported listening habits, favorite genres, and mental health indicators) with objective musical characteristics (such as tempo, spectral properties, and MFCC coefficients) of the corresponding genres. This helps to explore whether measurable audio properties of preferred genres are related to participants’ mental health states such as anxiety, depression, insomnia, or OCD levels.
 
-Methodology 
+**Methodology:** 
 
 1.The audio feature dataset (data2.csv) includes 1,000 tracks with extracted numerical features such as:
 * tempo, chroma_stft, spectral_centroid, spectral_bandwidth, rolloff, zero_crossing_rate, and mfcc1–20.
